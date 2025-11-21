@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights / LoRA
+*.ckpt
+*.safetensors
+*.bin
+
+# HuggingFace cached models
+huggingface/
+huggingface_cache/
+~/.cache/huggingface/
+
+# Diffusers model directories
+checkpoint-*/
+logs/
+*.pt
+*.pth
+
+# Output directories
+outputs/
+runs/
+wandb/
+reconstructions/
+fine_tuned_unet/
+lora_sd15_carpet/
+carpet_instances/
+carpet_val/
+
+# Datasets
+mvtec-ad/
+kaggle/
+input/
+*.zip
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Kaggle temp
+/kaggle/working/
+/kaggle/temp/
+/kaggle/input/
+
+# Misc
+*.tmp
+*.log
+*.png
+*.jpg
+*.jpeg
