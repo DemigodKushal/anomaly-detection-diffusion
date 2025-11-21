@@ -36,7 +36,7 @@ requirements.txt
 pip install -r requirements.txt
 
 ## Dataset
-AD dataset
+MvTec-AD dataset
 
 ## Contributors
 Saksham Madan, Kushal Shrivastava, Arnav Raghuvanshi
