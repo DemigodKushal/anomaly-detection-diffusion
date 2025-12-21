@@ -4,6 +4,8 @@ This repository contains an **independent extension** of an earlier project on a
 
 The goal of this work is to understand how different diffusion training choices affect **reconstruction quality** and **anomaly localization**, and why large pretrained models often fail at identity-preserving reconstruction.
 
+## [Find a report on my work here.](https://github.com/DemigodKushal/anomaly-detection-diffusion/blob/ad706844efab79a0f796cadd1cf8d79e7368c7c8/report/report.pdf)
+
 ---
 
 ## Background
